@@ -24,7 +24,14 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.npy
 MANIFEST
+archive/
+mp-env/
+MP_Data/
+logs/
+ISL_CSLRT_Corpus/
+src/img/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
